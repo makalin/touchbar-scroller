@@ -21,7 +21,7 @@ A simple macOS application that displays scrolling text animation on the MacBook
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/touchbar-scrolling-text.git
+git clone https://github.com/makalin/touchbar-scroller.git
 ```
 
 2. Open the project in Xcode
